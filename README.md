@@ -11,5 +11,5 @@
   <li>CSS</li>
 </ul>
 
-<h3> Você pode acessar o projeto por meio do link: https://github.com/analiceleite/personal_portfolio.git </h3>
+<h3> Você pode acessar o projeto no vercel por meio do link: https://personal-portfolio-eight-ruby.vercel.app/ </h3>
 <img src= "https://img.shields.io/badge/Status-Completed-green"/>
