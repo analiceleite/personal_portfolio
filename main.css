@@ -360,6 +360,7 @@ article .icon {
 
 #projects {
   position: relative;
+  max-width: 90%;
 }
 
 .color-container {
